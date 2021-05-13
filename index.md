@@ -23,16 +23,14 @@ email: lgfang@scut.edu.cn
 4. 能源概论
 5. 节能技术应用与评价
 
-#### 化工过程系统分析与合成
 
-1. 
-2. 
-3. 
+### 课件下载
 
-### TBD
-- 课程PPT及文档整理
-- 代码库的创建&维护
-- 后续升级与答疑互动
+
+#### 第一章
+
+- [1.4_Auto CAD 基本标注工具F](https://github.com/gzlgfang/gzlgfang.github.io/blob/master/ppt/1.4_F.pdf)
+
 
 ### 协作者
 
